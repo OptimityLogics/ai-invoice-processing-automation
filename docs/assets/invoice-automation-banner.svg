@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI Invoice Processing and Approval Automation</title>
+  <desc id="desc">An n8n, Google Gemini, Gmail and Google Sheets workflow for extracting, validating and routing invoices.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102a43"/>
+      <stop offset="100%" stop-color="#1f4b5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1050" cy="55" r="150" fill="#ffffff" opacity=".04"/>
+  <circle cx="1110" cy="300" r="190" fill="#ffffff" opacity=".035"/>
+  <g fill="none" stroke="#b8d8d8" stroke-width="2" opacity=".8">
+    <path d="M770 126 H850 V178 H915"/>
+    <path d="M850 178 V236 H915"/>
+    <path d="M850 178 H850 V294 H915"/>
+    <rect x="685" y="102" width="85" height="48" rx="10"/>
+    <rect x="915" y="155" width="190" height="46" rx="10"/>
+    <rect x="915" y="213" width="190" height="46" rx="10"/>
+    <rect x="915" y="271" width="190" height="46" rx="10"/>
+  </g>
+  <g fill="#f2f7f7" font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="83" font-size="17" letter-spacing="4" font-weight="700" fill="#9dd6d2">OPTIMITY LOGICS · AUTOMATION DEMO</text>
+    <text x="70" y="150" font-size="43" font-weight="700">AI Invoice Processing</text>
+    <text x="70" y="202" font-size="43" font-weight="700">&amp; Approval Automation</text>
+    <text x="70" y="248" font-size="21" fill="#d2e4e7">Extract · Validate · Detect duplicates · Route for review</text>
+    <text x="70" y="300" font-size="17" fill="#9dd6d2">n8n  +  Google Gemini  +  Gmail  +  Google Sheets</text>
+    <text x="727" y="132" font-size="13" text-anchor="middle" font-weight="700">INVOICE</text>
+    <text x="1010" y="183" font-size="15" text-anchor="middle" font-weight="700">AUTO-APPROVED</text>
+    <text x="1010" y="241" font-size="15" text-anchor="middle" font-weight="700">MANAGER REVIEW</text>
+    <text x="1010" y="299" font-size="15" text-anchor="middle" font-weight="700">FLAGGED</text>
+  </g>
+</svg>
